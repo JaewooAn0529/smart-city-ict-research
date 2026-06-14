@@ -3,7 +3,7 @@
 
 ### how to operate
 1. Python 3.8 install confirmation
-2. `pip install pandas matplotlib seaborn scipy requests` operate
-3. `python step1_download_data.py` operate
-4. `python step2_analyze.py` operate
-5. `python step3_visualize.py` operate
+2. `pip install pandas matplotlib seaborn scipy requests` execute this code
+3. `python step1_download_data.py` execute this code
+4. `python step2_analyze.py` execute this code
+5. `python step3_visualize.py` execute this code
